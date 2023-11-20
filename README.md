@@ -1,5 +1,10 @@
 # Rezepte-for-Dummies
 
+## Android App
+
+You can find the source code for the Android app here: `https://github.com/Qiriba/Recipesfordummiescode`
+or clone directly via: `https://github.com/Qiriba/Recipesfordummiescode.git`
+
 ## API
 
 ### If you want to run the APi you will need to do the following
